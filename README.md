@@ -1,24 +1,285 @@
+<h1 align="center"><span style="color:#00BFFF;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">, I'm Sudipta Samanta</span></h1>
+<h3 align="center"><span style="color:#00BFFF;">A passionate Problem Solver and Full Stack Developer from India</span></h3>
 
-# 💫 About Me<br><br><p align="center"><br>  <b>🚀 Passionate Developer | AI Enthusiast | Problem Solver</b><br></p><br><br>### 💻 What I'm Passionate About<br><br>- 🌐 **Full Stack Development**<br>- 🤖 **Artificial Intelligence**<br>- 🧠 **Machine Learning**<br>- 👁️ **Computer Vision**<br>- ⚙️ **Backend Development**<br><br>### 🌱 Currently Exploring<br><br>- ⚛️ **React.js** , **Node.js** & Modern Frontend Development<br>- 🧩 **Advanced Data Structures & Algorithms**<br>- 🚀 Building scalable and intelligent applications<br><br>### 🎯 My Goal<br><br>> To become a **Software Development Engineer (SDE)** and build impactful, innovative, and AI-powered applications that solve real-world problems.
+<img align="right" hspace="0" alt="coding" style="margin-left: 90px" width="290" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
 
+<p align="left"> <span style="color:#00BFFF;"><img src="https://komarev.com/ghpvc/?username=Mrholmes-cyber&label=Profile%20views&color=00BFFF&style=plastic" alt="Mrholmes-cyber" /></span> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saymyname_sudipta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudiptatech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudiptasamanta86493@gmail.com) 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mrholmes-cyber&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Mrholmes-cyber&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mrholmes-cyber&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- <span style="color:#00BFFF;">🌐 Passionate about <b>Full Stack Development</b></span>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrholmes-cyber&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- <span style="color:#00BFFF;">🤖 Exploring <b>Artificial Intelligence</b> & <b>Machine Learning</b></span>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- <span style="color:#00BFFF;">🌱 Currently learning <b>React.js, Node.js</b> & Modern Frontend Development, and <b>Advanced DSA</b></span>
+
+- <span style="color:#00BFFF;">🎯 Goal: become a <b>Software Development Engineer (SDE)</b> and build impactful, AI-powered applications</span>
+
+- <span style="color:#00BFFF;">📫 How to reach me <b>sudiptasamanta86493@gmail.com</b></span>
+
+###
+
+## Connect with me
+
+###
+
+<div align="left">
+
+  <a href="https://linkedin.com/in/sudiptatech" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="linkedin logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://instagram.com/saymyname_sudipta" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" alt="instagram logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="mailto:sudiptasamanta86493@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="40" alt="gmail logo" />
+  </a>
+
+</div>
+
+###
+
+<h2 align="left">Languages & Skills</h2>
+
+###
+
+<div align="left">
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=512&id=40670&format=png" height="40" alt="c logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" height="40" alt="java logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://images.icon-icons.com/2107/PNG/512/file_type_html_icon_130541.png" height="40" alt="html logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://images.icon-icons.com/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" height="40" alt="css logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="40" alt="typescript logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/redux.png" height="40" alt="redux logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwind logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" alt="mysql logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
+  </a>
+
+</div>
+
+###
+
+<h2 align="left">Tools & Platforms</h2>
+
+###
+
+<div align="left">
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="github logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" height="40" alt="vscode logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://www.postman.com/downloads/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" height="40" alt="postman logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="40" alt="vercel logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.onrender.com/sq-logo-white-bg.png" height="40" alt="render logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" height="40" alt="netlify logo" />
+  </a>
+
+  <img width="10" />
+
+  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/3840px-ChatGPT_logo.svg.png" height="40" alt="chatgpt logo" />
+  </a>
+
+</div>
+
+###
+
+<!-- Snake Game Contribution Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mrholmes-cyber/Mrholmes-cyber/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-lyart-six-14.vercel.app/api?username=Mrholmes-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mrholmes-cyber&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mrholmes-cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrholmes-cyber&theme=tokyo-night&hide_border=true" alt="Sudipta's GitHub activity graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrholmes-cyber&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mrholmes-cyber&icon=0&color=4" alt="visitor badge" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
