@@ -228,7 +228,7 @@
   <img width="10" />
 
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" height="40" alt="chatgpt logo" />
+    <img src="https://skillicons.dev/icons?i=openai" height="40" alt="chatgpt logo" />
   </a>
 
 </div>
@@ -279,7 +279,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrholmes-cyber&icon=0&color=4" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mrholmes-cyber&label=Visitors&color=blue&style=flat" alt="visitor badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
