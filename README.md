@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me<br><br><p align="center"><br>  <b>🚀 Passionate Developer | AI Enthusiast | Problem Solver</b><br></p><br><br>### 💻 What I'm Passionate About<br><br>- 🌐 **Full Stack Development**<br>- 🤖 **Artificial Intelligence**<br>- 🧠 **Machine Learning**<br>- 👁️ **Computer Vision**<br>- ⚙️ **Backend Development**<br><br>### 🌱 Currently Exploring<br><br>- ⚛️ **React.js** , **Node.js** & Modern Frontend Development<br>- 🧩 **Advanced Data Structures & Algorithms**<br>- 🚀 Building scalable and intelligent applications<br><br>### 🎯 My Goal<br><br>> To become a **Software Development Engineer (SDE)** and build impactful, innovative, and AI-powered applications that solve real-world problems.
 
 
