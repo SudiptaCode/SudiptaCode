@@ -3,7 +3,7 @@
 
 <img align="right" hspace="0" alt="coding" style="margin-left: 90px" width="290" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
 
-<p align="left"> <span style="color:#00BFFF;"><img src="https://komarev.com/ghpvc/?username=Mrholmes-cyber&label=Profile%20views&color=00BFFF&style=plastic" alt="Mrholmes-cyber" /></span> </p>
+<p align="left"> <span style="color:#00BFFF;"><img src="https://komarev.com/ghpvc/?username=Mrholmes-cyber&label=Profile%20views&color=blue&style=plastic" alt="Mrholmes-cyber" /></span> </p>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -228,7 +228,7 @@
   <img width="10" />
 
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=PsZ9BT1uU4Ur&format=png" height="40" alt="chatgpt logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" height="40" alt="chatgpt logo" />
   </a>
 
 </div>
