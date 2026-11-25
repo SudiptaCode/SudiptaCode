@@ -38,7 +38,7 @@
   <img width="10" />
 
   <a href="mailto:sudiptasamanta86493@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="40" alt="gmail logo" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
   </a>
 
 </div>
@@ -106,7 +106,7 @@
   <img width="10" />
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   </a>
 
   <img width="10" />
@@ -148,7 +148,7 @@
   <img width="10" />
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   </a>
 
   <img width="10" />
@@ -204,40 +204,40 @@
   <img width="10" />
 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   </a>
 
   <img width="10" />
 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="40" alt="vercel logo" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
   </a>
 
   <img width="10" />
 
   <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.onrender.com/sq-logo-white-bg.png" height="40" alt="render logo" />
+    <img src="https://skillicons.dev/icons?i=render" height="40" alt="render logo" />
   </a>
 
   <img width="10" />
 
   <a href="https://netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" height="40" alt="netlify logo" />
+    <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
   </a>
 
   <img width="10" />
 
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/3840px-ChatGPT_logo.svg.png" height="40" alt="chatgpt logo" />
+    <img src="https://img.icons8.com/?size=100&id=PsZ9BT1uU4Ur&format=png" height="40" alt="chatgpt logo" />
   </a>
 
 </div>
 
 ###
 
-<!-- Snake Game Contribution Animation -->
+<!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mrholmes-cyber/Mrholmes-cyber/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 # 📊 GitHub Statistics
