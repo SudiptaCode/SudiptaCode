@@ -3,7 +3,7 @@
 
 <img align="right" hspace="0" alt="coding" style="margin-left: 90px" width="290" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
 
-<p align="left"> <span style="color:#00BFFF;"><img src="https://komarev.com/ghpvc/?username=Mrholmes-cyber&label=Profile%20views&color=blue&style=plastic" alt="Mrholmes-cyber" /></span> </p>
+<p align="left"> <span style="color:#00BFFF;"><img src="https://komarev.com/ghpvc/?username=SudiptaCode&label=Profile%20views&color=blue&style=plastic" alt="SudiptaCode" /></span> </p>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -227,8 +227,8 @@
 
   <img width="10" />
 
-   <a href="https://chatgpt.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/3840px-ChatGPT_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="40" alt="chatgpt logo" />
+  <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=openai" height="40" alt="chatgpt logo" />
   </a>
 
 </div>
@@ -243,7 +243,7 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-lyart-six-14.vercel.app/api?username=Mrholmes-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-lyart-six-14.vercel.app/api?username=SudiptaCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 ---
@@ -251,7 +251,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mrholmes-cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SudiptaCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -259,7 +259,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrholmes-cyber&theme=tokyo-night&hide_border=true" alt="Sudipta's GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudiptaCode&theme=tokyo-night&hide_border=true" alt="Sudipta's GitHub activity graph" />
 </p>
 
 ---
@@ -267,7 +267,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrholmes-cyber&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SudiptaCode&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ### ✍️ Random Dev Quote
@@ -279,7 +279,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrholmes-cyber&label=Visitors&color=blue&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=SudiptaCode&label=Visitors&color=blue&style=flat" alt="visitor badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
